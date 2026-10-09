@@ -1,6 +1,6 @@
-# Student-Management-System
-Student Management System using Python, Pandas, SQLite, Machine Learning and SHAP
 # Student Management System using Python and SHAP
+
+Student Management System using Python, Pandas, SQLite, Machine Learning and SHAP
 
 ## Project Overview
 
